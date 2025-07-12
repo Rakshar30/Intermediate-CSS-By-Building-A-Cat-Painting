@@ -1,0 +1,1 @@
+I Built A Cat Painting Using HTML And CSS As An Intermediate-Level Project. It Helped Me Practice CSS Concepts Like Positioning, Gradients, Layering, And Shapes, Improving My Styling And Layout Skills Creatively.
